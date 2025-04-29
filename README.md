@@ -1,6 +1,10 @@
 # 🎬 Movie Showcase Website
 
 A responsive and modern movie showcase web application built with **React.js**,**Tailwind CSS**, and **React Router**. This project fetches real movie data from **TMDB API**, features dark/light mode support.
+
+## 🌐 Live Demo
+Experience CINEMATE live: [cineclair.netlify.app](https://cinematemoviebrowse.netlify.app/)
+
 ## 🚀 Features
 
 - ✅ Browse **trending** and **top-rated** movies via **TMDB API**  
@@ -17,3 +21,6 @@ A responsive and modern movie showcase web application built with **React.js**,*
 - **API:** [TMDB (The Movie Database)](https://www.themoviedb.org/documentation/api)  
 - **State Management:** React Hooks  
 - **Dark Mode:** Tailwind CSS dark mode support  
+
+Enjoy browsing movies with **CINEMATE**! 🍿
+
