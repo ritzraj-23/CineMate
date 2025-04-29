@@ -20,7 +20,9 @@ Experience CINEMATE live: (https://cinematemoviebrowse.netlify.app/)
 - **Routing:** React Router v6  
 - **API:** [TMDB (The Movie Database)](https://www.themoviedb.org/documentation/api)  
 - **State Management:** React Hooks  
-- **Dark Mode:** Tailwind CSS dark mode support  
+- **Dark Mode:** Tailwind CSS dark mode support
+
+---
 
 Enjoy browsing movies with **CINEMATE**! 🍿
 
